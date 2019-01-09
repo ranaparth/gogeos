@@ -13,7 +13,7 @@ import (
 
 	"github.com/llgcode/draw2d"
 
-	"github.com/paulsmith/gogeos/geos"
+	"github.com/ranaparth/gogeos/geos"
 )
 
 const (
